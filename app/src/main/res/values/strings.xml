@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleMapRetrofit</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="offline_mode">Online mode unavailable</string>
+    <string name="online_mode">Online mode available</string>
+    <string name="nothing_selected">Nothing selected =(</string>
+</resources>
